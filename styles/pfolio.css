@@ -92,6 +92,12 @@ nav a{
     margin-top: 0px;
     margin-bottom: 30px;
 }
+#fa-icon-one{
+    margin: 5px;
+}
+#fa-icon-two{
+    margin: 5px;
+}
 
 /* main */
 
@@ -169,6 +175,9 @@ main section{
     margin-top: 50px;
     text-align: center;
 }
+#fa-icon-three{
+    margin: 5px;
+}
 
 /* footer styles */
 
@@ -181,6 +190,9 @@ footer{
 }
 .footer-column{
     width: 50%;
+}
+.social-links{
+    text-align: center;
 }
 .social-links a{
     margin-right: 25px;
